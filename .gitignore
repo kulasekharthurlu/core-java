@@ -1,0 +1,6 @@
+/.classpath
+.settings
+target
+bin/com/app
+*.class
+.project
